@@ -3,7 +3,9 @@
 **Status:** Playable Prototype / Work in Progress
 
 ## Overview
-**WaveWaveTribute** is a fast-paced, 2D endless runner arcade game built for Android and Desktop. It features an infinite, procedurally generated obstacle course powered by noise algorithms, delivering an intense and highly responsive pixel-perfect collision experience. 
+**WaveWaveTribute** is a fast-paced, 2D endless runner arcade game built for Android and Desktop. It features an infinite, procedurally generated obstacle course powered by noise algorithms, delivering an intense and highly responsive pixel-perfect collision experience.
+
+[![Wave Wave Tribute (Original from Thomas Janson)]](https://www.youtube.com/watch?v=iGbK1G3LYAc)
 
 ## Tech Stack
 - **Language:** Java
