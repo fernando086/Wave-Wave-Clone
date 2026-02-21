@@ -1,4 +1,23 @@
-# WaveWaveTribute
+# WaveWaveTribute | Playable Prototype
+
+**Status:** Playable Prototype / Work in Progress
+
+## Overview
+**WaveWaveTribute** is a fast-paced, 2D endless runner arcade game built for Android and Desktop. It features an infinite, procedurally generated obstacle course powered by noise algorithms, delivering an intense and highly responsive pixel-perfect collision experience. 
+
+## Tech Stack
+- **Language:** Java
+- **Framework:** [libGDX](https://libgdx.com/)
+- **Core Mechanics:** Procedural generation (FastNoise), Custom vector rendering (`ShapeRenderer`), Real-time high-precision collision detection.
+- **Platforms:** Android, Desktop (LWJGL3)
+- **Build System:** Gradle
+
+## AI-Assisted Workflow 🤖
+This project was developed leveraging **Vibe Coding** methodologies and advanced **LLMs** (including Google's Gemini models via the Antigravity IDE). By using AI-assisted pair programming, the development process was significantly accelerated—enabling rapid iteration on the game's architecture, mathematical generation logic (like procedural noise generation), and collision optimizations.
+
+---
+
+## Generator Info
 
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
 
